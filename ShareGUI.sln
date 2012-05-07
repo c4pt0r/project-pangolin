@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShareGUI", "ShareGUI\ShareGUI.vcproj", "{7A21043A-BCE5-4034-8DD6-FFA114D20BF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A21043A-BCE5-4034-8DD6-FFA114D20BF6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7A21043A-BCE5-4034-8DD6-FFA114D20BF6}.Debug|Win32.Build.0 = Debug|Win32
+		{7A21043A-BCE5-4034-8DD6-FFA114D20BF6}.Release|Win32.ActiveCfg = Release|Win32
+		{7A21043A-BCE5-4034-8DD6-FFA114D20BF6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
